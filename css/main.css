@@ -1,0 +1,36 @@
+* {
+	font-family: 'Roboto', sans-serif;
+}
+
+header {
+	margin-top: 30px;
+}
+
+header .header-img{
+	max-width: 500px;
+}
+header .header-heading {
+	margin: 15px auto;
+	font-size: 55px;
+}
+
+header #submit-button {
+	margin-top: 15px;
+}
+
+#results .tile {
+	padding: 10px;
+}
+
+.book-container {
+	background-color: #d7d4cb;
+	margin: 5px;
+	padding: 10px;
+	border-radius: 5px;
+	height: 100%;
+}
+
+.book-title {
+	font-size: 20px;
+	margin: 5px auto;
+}
