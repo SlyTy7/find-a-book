@@ -29,8 +29,24 @@ header #submit-button {
 	border-radius: 5px;
 	height: 100%;
 }
+.book-img {
+	width: 100%;
+	height: 100%;
+}
+
+.card-block{
+	margin: 10px auto;
+}
 
 .book-title {
 	font-size: 20px;
 	margin: 5px auto;
+}
+
+.book-info {
+
+}
+
+.book-button {
+	margin: 0 auto;
 }
